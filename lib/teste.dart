@@ -68,6 +68,19 @@ class _MyHomePageState extends State<MyHomePage> {
       // onPressed: _incrementCounter,
       //tooltip: 'Increment',
       //child: const Icon(Icons.add),
+      // Só é um teste
+      // floatingActionButton: FloatingActionButton(
+      // onPressed: _incrementCounter,
+      //tooltip: 'Increment',
+      //child: const Icon(Icons.add),
+      // floatingActionButton: FloatingActionButton(
+      // onPressed: _incrementCounter,
+      //tooltip: 'Increment',
+      //child: const Icon(Icons.add),
+      // floatingActionButton: FloatingActionButton(
+      // onPressed: _incrementCounter,
+      //tooltip: 'Increment',
+      //child: const Icon(Icons.add),
       //child: const Icon(Icons.add),
       //child: const Icon(Icons.add),
 
